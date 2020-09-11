@@ -1,0 +1,79 @@
+Tuck; Location: 116,487; Adjacent Vertices: Murdough,Buchanan
+Gym; Location: 873,725; Adjacent Vertices: XH,Observatory Rd,Fayerweather
+Kemeny; Location: 499,333; Adjacent Vertices: Choate House,Carson
+East Wheelock; Location: 993,687; Adjacent Vertices: XH,Brace
+11 Rope Ferry; Location: 686,46; Adjacent Vertices: Dicks House
+New Hamp; Location: 739,773; Adjacent Vertices: Observatory Rd,Green Southeast
+Traffic Light; Location: 975,183; Adjacent Vertices: LSC East,Dana,LSC West
+Green West; Location: 503,710; Adjacent Vertices: Robinson/Collis,Green Center,South Mass,Green Northwest,Green Southwest
+Dragon; Location: 856,331; Adjacent Vertices: Observatory
+Wentworth; Location: 727,606; Adjacent Vertices: North Fayerweather,Richardson,Green Northeast
+Goldstein; Location: 722,207; Adjacent Vertices: Raven,Kellogg,37 Dewey Field
+Kellogg; Location: 807,135; Adjacent Vertices: Gilman,Goldstein
+Rauner; Location: 637,556; Adjacent Vertices: Green Northeast,Wheeler,Baker,Richardson
+Wheeler; Location: 646,485; Adjacent Vertices: Steele,Rauner,Wilder,Berry
+Cummings; Location: 86,589; Adjacent Vertices: Thayer,Murdough
+Baker; Location: 567,519; Adjacent Vertices: Rauner,Sanborn,Green North,Green Northwest
+Green East; Location: 641,707; Adjacent Vertices: Green Center,Green Southeast,Green Northeast,Green Southwest,Green Northwest,Observatory Rd
+LALACS; Location: 568,220; Adjacent Vertices: Sherman,Choate House
+Green Northeast; Location: 636,619; Adjacent Vertices: Rauner,Green North,Green East,Wentworth,Green Center
+Berry; Location: 577,419; Adjacent Vertices: Carson,Wheeler,Parker House
+Tuck Dr; Location: 240,509; Adjacent Vertices: Gold Coast,Buchanan
+XH; Location: 932,705; Adjacent Vertices: Gym,East Wheelock
+Rope Ferry; Location: 625,129; Adjacent Vertices: Sherman,Dicks House
+Bildner; Location: 819,280; Adjacent Vertices: Gilman,Burke
+37 Dewey Field; Location: 752,96; Adjacent Vertices: Goldstein
+Parker House; Location: 649,313; Adjacent Vertices: Raven,Sudikoff,Steele,Berry
+North Mass; Location: 426,603; Adjacent Vertices: Mid Mass,Green Northwest,Sanborn,Blunt
+Robinson/Collis; Location: 480,753; Adjacent Vertices: Green West,1953 Commons,Green Southwest
+KDE; Location: 262,337; Adjacent Vertices: Bones Gate,AXA
+McLaughlin; Location: 767,247; Adjacent Vertices: Sudikoff,Gilman
+Gold Coast; Location: 295,509; Adjacent Vertices: Tuck Dr,Butterfield
+Dicks House; Location: 657,81; Adjacent Vertices: 11 Rope Ferry,Rope Ferry
+Steele; Location: 681,434; Adjacent Vertices: Wheeler,Wilder,Fairchild,Parker House
+Raven; Location: 696,251; Adjacent Vertices: Goldstein,Sudikoff,Moore,Parker House
+AQ; Location: 126,255; Adjacent Vertices: DDD,AXA
+North Fayerweather; Location: 780,608; Adjacent Vertices: Wentworth,Observatory,Fayerweather,Observatory Rd,Bema
+Fairchild; Location: 729,381; Adjacent Vertices: Burke,Steele
+Moore; Location: 644,213; Adjacent Vertices: Sherman,Raven
+Fayerweather; Location: 844,644; Adjacent Vertices: North Fayerweather,Gym
+Sudikoff; Location: 736,288; Adjacent Vertices: McLaughlin,Raven,Burke,Parker House
+Carson; Location: 495,413; Adjacent Vertices: Rocky,Kemeny,Berry,Baker West
+Burke; Location: 775,327; Adjacent Vertices: Sudikoff,Bildner,Fairchild
+1953 Commons; Location: 429,747; Adjacent Vertices: South Mass,Robinson/Collis
+Bones Gate; Location: 314,358; Adjacent Vertices: FDA,KDE
+Dana; Location: 901,206; Adjacent Vertices: Gilman,Traffic Light,LSC West,LSC East
+Roth Center; Location: 231,167; Adjacent Vertices: DDD
+Green Southwest; Location: 510,798; Adjacent Vertices: Robinson/Collis,Green South,Green West,Green Center,Green East
+LSC North; Location: 936,71; Adjacent Vertices: LSC East,LSC West
+Rocky; Location: 421,389; Adjacent Vertices: FDA,Carson
+Buchanan; Location: 178,509; Adjacent Vertices: Tuck Dr,Thayer,Tuck,Murdough
+Observatory; Location: 787,541; Adjacent Vertices: North Fayerweather,Dragon
+Green Center; Location: 576,711; Adjacent Vertices: Green East,Green West,Green Southeast,Green Southwest,Green Northeast,Green Northwest
+Choate House; Location: 535,269; Adjacent Vertices: LALACS,Kemeny,Choates
+Baker West; Location: 496,504; Adjacent Vertices: Sanborn,Blunt,Carson
+Sherman; Location: 595,177; Adjacent Vertices: LALACS,Rope Ferry,Moore
+Sanborn; Location: 498,560; Adjacent Vertices: Baker West,Green Northwest,Baker,North Mass
+South Mass; Location: 430,717; Adjacent Vertices: 1953 Commons,Mid Mass,Green West
+Blunt; Location: 423,508; Adjacent Vertices: Butterfield,Baker West,North Mass
+Green North; Location: 570,618; Adjacent Vertices: Green Northeast,Green Northwest,Baker
+Dean's House; Location: 350,142; Adjacent Vertices: Choates
+LSC West; Location: 924,121; Adjacent Vertices: LSC North,Traffic Light,Dana
+Wilder; Location: 730,477; Adjacent Vertices: Richardson,Steele,Wheeler
+AXA; Location: 205,321; Adjacent Vertices: KDE,AQ
+LSC East; Location: 960,115; Adjacent Vertices: LSC North,Traffic Light,Dana
+Green Southeast; Location: 647,793; Adjacent Vertices: Green South,Green East,New Hamp,Green Center
+Butterfield; Location: 359,509; Adjacent Vertices: Gold Coast,Blunt,FDA
+Observatory Rd; Location: 809,751; Adjacent Vertices: Gym,New Hamp,North Fayerweather,Green East
+DDD; Location: 187,211; Adjacent Vertices: Roth Center,AQ
+Gilman; Location: 858,233; Adjacent Vertices: Dana,Bildner,McLaughlin,Kellogg
+Green Northwest; Location: 503,622; Adjacent Vertices: Sanborn,Green North,North Mass,Green West,Green Center,Baker,Green East
+Mid Mass; Location: 426,657; Adjacent Vertices: North Mass,South Mass
+Richardson; Location: 725,533; Adjacent Vertices: Wilder,Wentworth,Rauner
+Bema; Location: 918,529; Adjacent Vertices: North Fayerweather
+Green South; Location: 580,798; Adjacent Vertices: Green Southeast,Green Southwest
+Choates; Location: 409,217; Adjacent Vertices: Dean's House,Choate House
+Murdough; Location: 84,523; Adjacent Vertices: Tuck,Thayer,Cummings,Buchanan
+Brace; Location: 958,623; Adjacent Vertices: East Wheelock
+FDA; Location: 365,374; Adjacent Vertices: Bones Gate,Rocky,Butterfield
+Thayer; Location: 127,548; Adjacent Vertices: Murdough,Cummings,Buchanan

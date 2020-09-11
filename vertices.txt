@@ -1,0 +1,79 @@
+AQ; Location: 126, 255; DDD, AXA
+LSC East; Location: 960, 115; LSC North, Traffic Light, Dana
+Green East; Location: 641, 707; Green Center, Green Southeast, Green Northeast, Green Southwest, Green Northwest, Observatory Rd
+Observatory Rd; Location: 809, 751; Gym, New Hamp, North Fayerweather, Green East
+Roth Center; Location: 231, 167; DDD
+North Fayerweather; Location: 780, 608; Wentworth, Observatory, Fayerweather, Observatory Rd, Bema
+Sanborn; Location: 498, 560; Baker West, Green Northwest, Baker, North Mass
+Blunt; Location: 423, 508; Butterfield, Baker West, North Mass
+Gym; Location: 873, 725; XH, Observatory Rd, Fayerweather
+Steele; Location: 681, 434; Wheeler, Wilder, Fairchild, Parker House
+Choates; Location: 409, 217; Dean's House, Choate House
+Sherman; Location: 595, 177; LALACS, Rope Ferry, Moore
+Brace; Location: 958, 623; East Wheelock
+South Mass; Location: 430, 717; 1953 Commons, Mid Mass, Green West
+Dragon; Location: 856, 331; Observatory
+Cummings; Location: 86, 589; Thayer, Murdough
+Baker West; Location: 496, 504; Sanborn, Blunt, Carson
+LSC North; Location: 936, 71; LSC East, LSC West
+DDD; Location: 187, 211; Roth Center, AQ
+Green North; Location: 570, 618; Green Northeast, Green Northwest, Baker
+Baker; Location: 567, 519; Rauner, Sanborn, Green North, Green Northwest
+FDA; Location: 365, 374; Bones Gate, Rocky, Butterfield
+Buchanan; Location: 178, 509; Tuck Dr, Thayer, Tuck, Murdough
+Dean's House; Location: 350, 142; Choates
+Berry; Location: 577, 419; Carson, Wheeler, Parker House
+Observatory; Location: 787, 541; North Fayerweather, Dragon
+Traffic Light; Location: 975, 183; LSC East, Dana, LSC West
+AXA; Location: 205, 321; KDE, AQ
+Fayerweather; Location: 844, 644; North Fayerweather, Gym
+Murdough; Location: 84, 523; Tuck, Thayer, Cummings, Buchanan
+McLaughlin; Location: 767, 247; Sudikoff, Gilman
+Fairchild; Location: 729, 381; Burke, Steele
+Green Northeast; Location: 636, 619; Rauner, Green North, Green East, Wentworth, Green Center
+Sudikoff; Location: 736, 288; McLaughlin, Raven, Burke, Parker House
+Green Southeast; Location: 647, 793; Green South, Green East, New Hamp, Green Center
+Rocky; Location: 421, 389; FDA, Carson
+North Mass; Location: 426, 603; Mid Mass, Green Northwest, Sanborn, Blunt
+Parker House; Location: 649, 313; Raven, Sudikoff, Steele, Berry
+Mid Mass; Location: 426, 657; North Mass, South Mass
+Green Center; Location: 576, 711; Green East, Green West, Green Southeast, Green Southwest, Green Northeast, Green Northwest
+1953 Commons; Location: 429, 747; South Mass, Robinson/Collis
+Raven; Location: 696, 251; Goldstein, Sudikoff, Moore, Parker House
+Green South; Location: 580, 798; Green Southeast, Green Southwest
+Carson; Location: 495, 413; Rocky, Kemeny, Berry, Baker West
+11 Rope Ferry; Location: 686, 46; Dicks House
+Tuck Dr; Location: 240, 509; Gold Coast, Buchanan
+East Wheelock; Location: 993, 687; XH, Brace
+New Hamp; Location: 739, 773; Observatory Rd, Green Southeast
+Wheeler; Location: 646, 485; Steele, Rauner, Wilder, Berry
+37 Dewey Field; Location: 752, 96; Goldstein
+Rauner; Location: 637, 556; Green Northeast, Wheeler, Baker, Richardson
+Gold Coast; Location: 295, 509; Tuck Dr, Butterfield
+Thayer; Location: 127, 548; Murdough, Cummings, Buchanan
+Rope Ferry; Location: 625, 129; Sherman, Dicks House
+Kemeny; Location: 499, 333; Choate House, Carson
+KDE; Location: 262, 337; Bones Gate, AXA
+Richardson; Location: 725, 533; Wilder, Wentworth, Rauner
+Green Southwest; Location: 510, 798; Robinson/Collis, Green South, Green West, Green Center, Green East
+Robinson/Collis; Location: 480, 753; Green West, 1953 Commons, Green Southwest
+LSC West; Location: 924, 121; LSC North, Traffic Light, Dana
+Butterfield; Location: 359, 509; Gold Coast, Blunt, FDA
+Wilder; Location: 730, 477; Richardson, Steele, Wheeler
+Bones Gate; Location: 314, 358; FDA, KDE
+Bildner; Location: 819, 280; Gilman, Burke
+Burke; Location: 775, 327; Sudikoff, Bildner, Fairchild
+Moore; Location: 644, 213; Sherman, Raven
+Goldstein; Location: 722, 207; Raven, Kellogg, 37 Dewey Field
+Kellogg; Location: 807, 135; Gilman, Goldstein
+LALACS; Location: 568, 220; Sherman, Choate House
+Gilman; Location: 858, 233; Dana, Bildner, McLaughlin, Kellogg
+Dicks House; Location: 657, 81; 11 Rope Ferry, Rope Ferry
+XH; Location: 932, 705; Gym, East Wheelock
+Green West; Location: 503, 710; Robinson/Collis, Green Center, South Mass, Green Northwest, Green Southwest
+Choate House; Location: 535, 269; LALACS, Kemeny, Choates
+Bema; Location: 918, 529; North Fayerweather
+Wentworth; Location: 727, 606; North Fayerweather, Richardson, Green Northeast
+Tuck; Location: 116, 487; Murdough, Buchanan
+Green Northwest; Location: 503, 622; Sanborn, Green North, North Mass, Green West, Green Center, Baker, Green East
+Dana; Location: 901, 206; Gilman, Traffic Light, LSC West, LSC East
